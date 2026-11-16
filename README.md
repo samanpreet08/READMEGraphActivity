@@ -12,3 +12,6 @@ Open this folder in Visual Studio Code.
 
 ## Contributors
 -Samanpreet kaur
+
+## Contribution Practice
+This change was submitted through a Pull Request.
