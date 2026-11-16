@@ -15,3 +15,8 @@ Open this folder in Visual Studio Code.
 
 ## Contribution Practice
 This change was submitted through a Pull Request.
+
+
+## Pull Request Practice
+
+This second change was submitted through a Pull Request.
